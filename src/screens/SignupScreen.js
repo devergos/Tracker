@@ -35,7 +35,7 @@ const SignupScreen = ({ navigation }) => {
 
 SignupScreen.navigationOptions = {
 
-    header: null,
+    headerShown: false,
 }
 
 
